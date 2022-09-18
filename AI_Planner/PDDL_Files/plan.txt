@@ -1,0 +1,1 @@
+(action_increase_brightness brightnesssensor brightnessstate brightnessstate lightsource lightsource)

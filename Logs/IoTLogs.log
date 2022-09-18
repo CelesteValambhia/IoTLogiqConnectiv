@@ -1,0 +1,15 @@
+2022-09-18 16:36:46 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-18 16:36:47 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-18 16:36:47 : DEBUG : Func=__main__ : Log=New plan executed.
+2022-09-18 16:41:50 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-18 16:41:51 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-18 16:41:51 : DEBUG : Func=__main__ : Log=New plan executed.
+2022-09-18 16:42:00 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-18 16:42:01 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-18 16:42:01 : DEBUG : Func=__main__ : Log=New plan executed.
+2022-09-18 16:42:03 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-18 16:42:03 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-18 16:42:03 : DEBUG : Func=__main__ : Log=New plan executed.
+2022-09-18 16:50:10 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-18 16:50:10 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-18 16:50:10 : DEBUG : Func=__main__ : Log=New plan executed.
