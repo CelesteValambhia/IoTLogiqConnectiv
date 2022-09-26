@@ -1,8 +1,6 @@
 import requests
 import os
 
-
-
 class Solver:
     def __init__(self, domain_file: str, problem_file: str,  # problem_template: str,
                  solution_filename: str, solver_uri: str) -> None:

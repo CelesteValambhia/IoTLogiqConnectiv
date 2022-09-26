@@ -143,12 +143,12 @@
         ; If the light brightness is low then notify to increase light brightness to make it favourable. 
         :parameters     (
                             ?brightsenexist ?brightlow ?brightfav - sensor 
-                            ?lightexist - actuator
+                            ;?lightexist - actuator
                             ?lighthighnotify - notification
                         )
         :precondition   (
                             and (BrightnessSensor_Exists ?brightsenexist)
-                            (not (LightSource_Exists ?lightexist))
+                            ;(not (LightSource_Exists ?lightexist))
                             (Brightness_Low ?brightlow)
                             (not (Brightness_Favourable ?brightfav))
                         )
@@ -163,12 +163,12 @@
         ; If the light brightness is high then notify to decrease light brightness to make it favourable.
         :parameters     (
                             ?brightsenexist ?brighthigh ?brightfav - sensor 
-                            ?lightexist - actuator
+                            ;?lightexist - actuator
                             ?lightlownotify - notification
                         )
         :precondition   (
                             and (BrightnessSensor_Exists ?brightsenexist)
-                            (not (LightSource_Exists ?lightexist))
+                            ;(not (LightSource_Exists ?lightexist))
                             (Brightness_High ?brighthigh)
                             (not (Brightness_Favourable ?brightfav))
                         )
@@ -556,13 +556,13 @@
     (:action Action_Thermostat_Off
         :parameters     (
                             ?summer - season
-                            ?thermostaton - sensor
+                            ?isthermostaton - sensor
                             ?thermostatexist ?thermostatoff - actuator
                         )
         :precondition   (
                             and (Season_Summer ?summer)
                             (Thermostat_Exists ?thermostatexist)
-                            (IsThermostat_On ?thermostaton)
+                            (IsThermostat_On ?isthermostaton)
                         )
         :effect         (
                             and (Thermostat_Off ?thermostatoff)
@@ -570,6 +570,7 @@
     )
     
     (:action Action_IncreaseTemperature_Summer
+        ; Make room warmer
         :parameters     (
                             ?summer - season
                             ?isacon ?envcold ?envnormal - sensor
@@ -610,6 +611,7 @@
     )
     
     (:action Action_DecreaseTemperature_Summer
+        ; Makes room cooler
         :parameters     (
                             ?summer - season
                             ?acexist ?acon ?aclow - actuator
