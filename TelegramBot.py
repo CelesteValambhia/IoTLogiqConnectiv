@@ -16,7 +16,9 @@ ILqCtivBot = telebot.TeleBot(ILqCtivBot_Key)
 def Greet(message):
     helper = "Hello, How can I help you?\nThese are the commands you can run for interacting with the IoT " \
              "system:\n\nComfort Queries:\nSet_Room_Temp_Comfortable\nSet_Room_Light_Comfortable" \
-             "\nSet_Room_Comfortable\n "
+             "\nSet_Room_Comfortable\n\nInstructions:\nGet_Room_Brightness\nGet_Room_Temperature" \
+             "\nGet_Season\nSet_Lamp_Luminance <value>\nGet_Lamp_Luminance\nSet_Thermostat_Temperature " \
+             "<value>\nGet_Thermostat_Temperature\n "
     ILqCtivBot.send_message(message.chat.id, helper)
 
 

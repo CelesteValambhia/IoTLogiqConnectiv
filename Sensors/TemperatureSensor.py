@@ -30,8 +30,8 @@ class TemperatureSensor:
         value = min(value, self.maxTemperature)
         return value
 
-
-class Simulator:
+'''
+class TempSimulator:
     def __init__(self, interval):
         self.interval = interval
 
@@ -50,5 +50,6 @@ class Simulator:
             time.sleep(self.interval)
 
 
-s = Simulator(5)
+s = TempSimulator(5)
 s.start()
+'''

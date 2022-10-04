@@ -1,6 +1,7 @@
 import requests
 import os
 
+
 class Solver:
     def __init__(self, domain_file: str, problem_file: str,  # problem_template: str,
                  solution_filename: str, solver_uri: str) -> None:
@@ -12,32 +13,6 @@ class Solver:
         # self.problem_template = problem_template
         self.solution_file = f"{str(os.path.join(self.solution_path, solution_filename))}"
         self.solver_uri = solver_uri
-
-    '''
-    def __make_replacements(self, template: str, replacement_dict: dict, filename: str):
-        error_keywords = [
-            "(BrightnessSensor_Exists BrightnessSensor)",
-            "(Brightness_High BrightnessState)",
-            "(LightSource_Exists LightSource)"
-        ]
-        with open(template, "r") as file:
-            file_data = file.read()
-
-            for key_name in list(replacement_dict.keys()):
-                file_data = file_data.replace(key_name, replacement_dict[key_name])
-
-            for keyword in error_keywords:
-                file_data = file_data.replace(keyword, "")
-
-            with open(filename, "w") as w_file:
-                w_file.write(file_data)
-
-    def generate_problem(self, replacement_dict: dict):
-        self.__make_replacements(
-            self.problem_template,
-            replacement_dict, self.problem_file
-        )
-    '''
 
     def solve(self, log):
         body = {
