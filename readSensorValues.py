@@ -51,8 +51,49 @@ def readThermostatTemp(log):
     try:
         httpResponse = requests.get('http://192.168.0.102:5000/thermostat')
         json_load = httpResponse.json()
-        # print(json_load['luma'])
-        return json_load['temperature']
+        if json_load['status'] == "On":
+            return json_load['temperature']
+        else:
+            return False
+    except CalledProcessError as e:
+        log.log_error("Func=" + __name__ + " : " + "Log=" + str(e))
+        return False
+    except Exception as e:
+        log.log_error("Func=" + __name__ + " : " + "Log=" + str(e))
+        return False
+
+def readThermostatStatus(log):
+    try:
+        httpResponse = requests.get('http://192.168.0.102:5000/thermostat')
+        json_load = httpResponse.json()
+        return json_load['status']
+    except CalledProcessError as e:
+        log.log_error("Func=" + __name__ + " : " + "Log=" + str(e))
+        return False
+    except Exception as e:
+        log.log_error("Func=" + __name__ + " : " + "Log=" + str(e))
+        return False
+
+def readACTemp(log):
+    try:
+        httpResponse = requests.get('http://192.168.0.102:5000/ac')
+        json_load = httpResponse.json()
+        if json_load['status'] == "On":
+            return json_load['temperature']
+        else:
+            return False
+    except CalledProcessError as e:
+        log.log_error("Func=" + __name__ + " : " + "Log=" + str(e))
+        return False
+    except Exception as e:
+        log.log_error("Func=" + __name__ + " : " + "Log=" + str(e))
+        return False
+
+def readACStatus(log):
+    try:
+        httpResponse = requests.get('http://192.168.0.102:5000/ac')
+        json_load = httpResponse.json()
+        return json_load['status']
     except CalledProcessError as e:
         log.log_error("Func=" + __name__ + " : " + "Log=" + str(e))
         return False

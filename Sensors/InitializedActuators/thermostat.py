@@ -1,11 +1,26 @@
 class Thermostat:
     def __init__(self) -> None:
-        self.temperature = 0
+        self.temperature = 25
+        self.status = "On"
 
     def set(self, value: float) -> None:
-        self.temperature = value
-        print(f"Thermostat.set : {self.temperature}")
+        if self.status == "On":
+            self.temperature = value
+            print(f"Thermostat.set : {self.temperature}")
+        else:
+            print(f"Thermostat cannot be set")
 
     def get(self) -> float:
-        print(self.temperature)
-        return self.temperature
+        if self.status == "On":
+            print(self.temperature)
+            return self.temperature
+        else:
+            return 0
+
+    def setstatus(self, status):
+        self.status = status
+        print(f"Thermostat.status : {self.status}")
+
+    def getstatus(self) -> str:
+        print(self.status)
+        return self.status

@@ -1,6 +1,6 @@
 (define (domain ComfortAnalyser)
     ;ComfortAnalyser -  It is a logical block for performing the tasks based on the comfort queries of the user. 
-    ;                   It automatically adjusts the sensors to its comfort level by monitoring the environmental sensors.
+    ;                   It automatically adjusts the actuators to its comfort level by monitoring the environmental sensors.
 
     (:requirements
         :strips

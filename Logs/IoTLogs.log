@@ -1,15 +1,1995 @@
-2022-09-18 16:36:46 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
-2022-09-18 16:36:47 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
-2022-09-18 16:36:47 : DEBUG : Func=__main__ : Log=New plan executed.
-2022-09-18 16:41:50 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
-2022-09-18 16:41:51 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
-2022-09-18 16:41:51 : DEBUG : Func=__main__ : Log=New plan executed.
-2022-09-18 16:42:00 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
-2022-09-18 16:42:01 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
-2022-09-18 16:42:01 : DEBUG : Func=__main__ : Log=New plan executed.
-2022-09-18 16:42:03 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
-2022-09-18 16:42:03 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
-2022-09-18 16:42:03 : DEBUG : Func=__main__ : Log=New plan executed.
-2022-09-18 16:50:10 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
-2022-09-18 16:50:10 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
-2022-09-18 16:50:10 : DEBUG : Func=__main__ : Log=New plan executed.
+2022-09-18 22:55:55 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-18 22:55:55 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-18 22:55:55 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-18 22:55:55 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-18 22:55:56 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-18 22:55:56 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-18 22:56:41 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-18 22:56:41 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-18 22:56:41 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-18 22:56:41 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-18 22:56:42 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-18 22:56:42 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-18 22:57:11 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-18 22:57:12 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-18 22:57:12 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-18 22:57:12 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-18 22:57:12 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-18 22:57:12 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-18 22:57:40 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-18 22:57:41 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-18 22:57:41 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-18 22:57:41 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-18 22:57:41 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-18 22:57:41 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-18 23:03:57 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-18 23:03:58 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-18 23:03:58 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-18 23:03:58 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-18 23:03:58 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-18 23:03:58 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-18 23:07:10 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-18 23:07:10 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-18 23:08:29 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-18 23:08:29 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-18 23:11:52 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-18 23:11:52 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-18 23:11:52 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-18 23:11:52 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-18 23:11:53 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-18 23:11:53 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-18 23:12:50 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-18 23:12:51 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-18 23:12:51 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-18 23:14:52 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-18 23:14:52 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-18 23:14:52 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-22 19:38:05 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-22 19:38:06 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-22 19:38:06 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-26 16:40:26 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-26 16:40:26 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-26 16:40:26 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-26 16:41:14 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-26 16:41:14 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-26 16:41:14 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-26 16:41:59 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-26 16:41:59 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-26 16:41:59 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-26 16:43:11 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-26 16:43:11 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-26 16:43:11 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-26 17:07:14 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-26 17:07:14 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-26 17:07:14 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-26 17:34:39 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-26 17:34:40 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-26 17:34:40 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-26 17:37:27 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-26 17:37:28 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-26 17:37:28 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-26 17:41:34 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-26 17:41:34 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-26 17:41:34 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-26 17:45:21 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-26 17:45:21 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-26 17:45:21 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-26 17:45:45 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-26 17:45:45 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-26 17:45:45 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-28 19:47:18 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-28 19:47:19 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-28 19:47:19 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-28 19:49:10 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-28 19:49:10 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-28 19:49:10 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-28 20:15:40 : INFO : Func=solver : Log=Brightness is low.
+2022-09-28 20:15:40 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-28 20:15:41 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-28 20:15:41 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-28 20:16:44 : INFO : Func=solver : Log=Brightness is low.
+2022-09-28 20:16:44 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-28 20:16:45 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-28 20:16:45 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-28 20:31:30 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 26, in SetRoomLightComfortable
+    log.log_info("Func=" + __name__ + " : " + "Log=Brightness: " + bright)
+TypeError: can only concatenate str (not "CalledProcessError") to str
+2022-09-28 20:32:12 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 26, in SetRoomLightComfortable
+    log.log_info("Func=" + __name__ + " : " + "Log=Brightness: " + bright)
+TypeError: can only concatenate str (not "bytes") to str
+2022-09-28 20:33:24 : INFO : Func=solver : Log=Brightness: b'{\n  "instance-id": "32kd403ks",\n  "timestamp": "28-09-2022 20:33:24",\n  "type-id": "de.uni-stuttgart.iaas.sc.temperature",\n  "value": {\n    "celsius": 24.903460899073323\n  }\n}\n'
+2022-09-28 20:33:24 : INFO : Func=solver : Log=Brightness is low.
+2022-09-28 20:33:25 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-28 20:33:25 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-28 20:33:25 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-28 21:00:21 : INFO : Func=solver : Log=Brightness: Command 'curl --silent --insecure -X POST -H 'Content-Type: application/json' http://localhost:5000/temperature?value' returned non-zero exit status 7.
+2022-09-28 21:00:21 : INFO : Func=solver : Log=Brightness is low.
+2022-09-28 21:00:21 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-28 21:00:22 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-28 21:00:22 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-28 21:23:11 : INFO : Func=solver : Log=Brightness: 25.153450040489346
+2022-09-28 21:23:11 : INFO : Func=solver : Log=Brightness is low.
+2022-09-28 21:23:11 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-28 21:23:12 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-28 21:23:12 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-28 21:35:56 : INFO : Func=solver : Log=Brightness: 'celsius'
+2022-09-28 21:35:56 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 28, in SetRoomLightComfortable
+    if brightness <= comfort_luminance[0]:
+TypeError: '<=' not supported between instances of 'KeyError' and 'int'
+2022-09-28 21:38:20 : INFO : Func=solver : Log=Brightness: 'celsius'
+2022-09-28 21:38:20 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 28, in SetRoomLightComfortable
+    if brightness <= comfort_luminance[0]:
+TypeError: '<=' not supported between instances of 'KeyError' and 'int'
+2022-09-28 21:39:08 : INFO : Func=solver : Log=Brightness: 29.840079210324653
+2022-09-28 21:39:08 : INFO : Func=solver : Log=Brightness is low.
+2022-09-28 21:39:08 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-28 21:39:09 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-28 21:39:09 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-28 21:39:51 : INFO : Func=solver : Log=Brightness: 30.125343065936544
+2022-09-28 21:39:51 : INFO : Func=solver : Log=Brightness is low.
+2022-09-28 21:39:51 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-28 21:39:51 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-28 21:39:51 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-28 21:41:08 : INFO : Func=solver : Log=Brightness: 29.955914371117874
+2022-09-28 21:41:08 : INFO : Func=solver : Log=Brightness is low.
+2022-09-28 21:41:08 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-28 21:41:09 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-28 21:41:09 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-28 21:45:17 : INFO : Func=solver : Log=Brightness: 30.63879099619253
+2022-09-28 21:45:17 : INFO : Func=solver : Log=Brightness is low.
+2022-09-28 21:45:17 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-28 21:45:17 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-28 21:45:17 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-28 21:45:17 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 49, in SetRoomLightComfortable
+    def get_luminance():
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\flask\scaffold.py", line 449, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\flask\scaffold.py", line 50, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\flask\app.py", line 1358, in add_url_rule
+    raise AssertionError(
+AssertionError: View function mapping is overwriting an existing endpoint function: get_luminance
+2022-09-28 23:28:39 : INFO : Func=solver : Log=Brightness: 30.41105026231573
+2022-09-28 23:28:39 : INFO : Func=solver : Log=Brightness is low.
+2022-09-28 23:28:39 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-28 23:28:40 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-28 23:28:40 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-28 23:28:40 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 49, in SetRoomLightComfortable
+    def get_luminance():
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\flask\scaffold.py", line 449, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\flask\scaffold.py", line 50, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\flask\app.py", line 1358, in add_url_rule
+    raise AssertionError(
+AssertionError: View function mapping is overwriting an existing endpoint function: get_luminance
+2022-09-28 23:33:36 : INFO : Func=solver : Log=Brightness: Command 'curl --silent --insecure -X POST -H 'Content-Type: application/json' http://localhost:5000/brightness?value' returned non-zero exit status 7.
+2022-09-28 23:33:36 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 27, in SetRoomLightComfortable
+    if brightness <= comfort_luminance[0]:
+TypeError: '<=' not supported between instances of 'CalledProcessError' and 'int'
+2022-09-28 23:35:25 : INFO : Func=solver : Log=Brightness: 30.3242457083078
+2022-09-28 23:35:25 : INFO : Func=solver : Log=Brightness is low.
+2022-09-28 23:35:25 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-28 23:35:26 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-28 23:35:26 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-28 23:35:26 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 49, in SetRoomLightComfortable
+    def get_luminance():
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\flask\scaffold.py", line 449, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\flask\scaffold.py", line 50, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\flask\app.py", line 1358, in add_url_rule
+    raise AssertionError(
+AssertionError: View function mapping is overwriting an existing endpoint function: get_luminance
+2022-09-29 00:07:35 : INFO : Func=solver : Log=Brightness: 31.0526882293485
+2022-09-29 00:07:35 : INFO : Func=solver : Log=Brightness is low.
+2022-09-29 00:07:35 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-29 00:07:36 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-29 00:07:36 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-29 00:07:36 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 49, in SetRoomLightComfortable
+    #solver.solve(log)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\flask\scaffold.py", line 449, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\flask\scaffold.py", line 50, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\flask\app.py", line 1358, in add_url_rule
+    raise AssertionError(
+AssertionError: View function mapping is overwriting an existing endpoint function: get_luminance
+2022-09-29 00:08:18 : INFO : Func=solver : Log=Brightness: 29.586046517301483
+2022-09-29 00:08:18 : INFO : Func=solver : Log=Brightness is low.
+2022-09-29 00:08:18 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-29 00:08:19 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-29 00:08:19 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-29 00:09:56 : INFO : Func=solver : Log=Brightness: Command 'curl --silent --insecure -X POST -H 'Content-Type: application/json' http://localhost:5000/brightness?value' returned non-zero exit status 7.
+2022-09-29 00:09:56 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 28, in SetRoomLightComfortable
+    if brightness <= comfort_luminance[0]:
+TypeError: '<=' not supported between instances of 'CalledProcessError' and 'int'
+2022-09-29 00:10:33 : INFO : Func=solver : Log=Brightness: 29.696671641682094
+2022-09-29 00:10:33 : INFO : Func=solver : Log=Brightness is low.
+2022-09-29 00:10:33 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-29 00:10:34 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-29 00:10:34 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-29 00:19:09 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\InputClassifier.py", line 25, in SolveComfortQuery
+    SetRoomLightComfortable(log)
+NameError: name 'SetRoomLightComfortable' is not defined
+2022-09-29 00:19:52 : INFO : Func=solver : Log=Brightness: 29.679768206029763
+2022-09-29 00:19:52 : INFO : Func=solver : Log=Brightness is low.
+2022-09-29 00:19:52 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-29 00:19:52 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-29 00:19:52 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-29 00:24:24 : INFO : Func=solver : Log=Brightness: 30.808998828030962
+2022-09-29 00:24:24 : INFO : Func=solver : Log=Brightness is low.
+2022-09-29 00:24:24 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-29 00:24:25 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-29 00:24:25 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-29 00:39:24 : INFO : Func=solver : Log=Brightness: 30.96704808259171
+2022-09-29 00:39:24 : INFO : Func=solver : Log=Brightness is low.
+2022-09-29 00:39:24 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-29 00:39:24 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-29 00:39:24 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-29 00:39:27 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1253, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1299, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1248, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1008, in _send_output
+    self.send(msg)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 948, in send
+    self.connect()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001C686368340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='locahost', port=5000): Max retries exceeded with url: /luminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C686368340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 39, in SetRoomLightComfortable
+    setLampValue(value=60)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 91, in setLampValue
+    return requests.post("http://locahost:5000/luminance", json={"lamp_lumaval":value})
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='locahost', port=5000): Max retries exceeded with url: /luminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C686368340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-09-29 00:39:59 : INFO : Func=solver : Log=Brightness: 30.317221019207448
+2022-09-29 00:39:59 : INFO : Func=solver : Log=Brightness is low.
+2022-09-29 00:39:59 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-29 00:40:00 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-29 00:40:00 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-29 00:40:02 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1253, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1299, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1248, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1008, in _send_output
+    self.send(msg)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 948, in send
+    self.connect()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000028650658340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='locahost', port=5000): Max retries exceeded with url: /luminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028650658340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 39, in SetRoomLightComfortable
+    setLampValue(value=60)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 91, in setLampValue
+    return requests.post("http://locahost:5000/luminance", json={"lamp_lumaval":value})
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='locahost', port=5000): Max retries exceeded with url: /luminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028650658340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-09-29 00:45:23 : INFO : Func=solver : Log=Brightness: 31.132596164695006
+2022-09-29 00:45:23 : INFO : Func=solver : Log=Brightness is low.
+2022-09-29 00:45:23 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-29 00:45:23 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-29 00:45:23 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-29 00:45:25 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1253, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1299, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1248, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1008, in _send_output
+    self.send(msg)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 948, in send
+    self.connect()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00000286506ED580>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='locahost', port=5000): Max retries exceeded with url: /luminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000286506ED580>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 39, in SetRoomLightComfortable
+    setLampValue(value=60)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 91, in setLampValue
+    return requests.post("http://locahost:5000/luminance", json={"lamp_lumaval":value})
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='locahost', port=5000): Max retries exceeded with url: /luminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000286506ED580>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-09-29 00:48:00 : INFO : Func=solver : Log=Brightness: 30.94208151799874
+2022-09-29 00:48:00 : INFO : Func=solver : Log=Brightness is low.
+2022-09-29 00:48:00 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-29 00:48:01 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-29 00:48:01 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-29 00:48:03 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1253, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1299, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1248, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1008, in _send_output
+    self.send(msg)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 948, in send
+    self.connect()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001AAFFBA8340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='locahost', port=5000): Max retries exceeded with url: /luminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AAFFBA8340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 39, in SetRoomLightComfortable
+    requests.post("http://locahost:5000/luminance", json={"lamp_lumaval": 60})
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='locahost', port=5000): Max retries exceeded with url: /luminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AAFFBA8340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-09-29 00:49:07 : INFO : Func=solver : Log=Brightness: 29.74961977629909
+2022-09-29 00:49:07 : INFO : Func=solver : Log=Brightness is low.
+2022-09-29 00:49:07 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-29 00:49:08 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-29 00:49:08 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-29 00:49:10 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1253, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1299, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1248, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1008, in _send_output
+    self.send(msg)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 948, in send
+    self.connect()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000019DA00E8340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='locahost', port=5000): Max retries exceeded with url: /luminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019DA00E8340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 40, in SetRoomLightComfortable
+    setLampValue(value=60)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 92, in setLampValue
+    requests.post("http://locahost:5000/luminance", json={"lamp_lumaval":value})
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='locahost', port=5000): Max retries exceeded with url: /luminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019DA00E8340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-09-29 00:49:51 : INFO : Func=solver : Log=Brightness: 30.244823144355678
+2022-09-29 00:49:51 : INFO : Func=solver : Log=Brightness is low.
+2022-09-29 00:49:51 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-29 00:49:52 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-29 00:49:52 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-29 00:49:54 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1253, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1299, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1248, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1008, in _send_output
+    self.send(msg)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 948, in send
+    self.connect()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000019423B38340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='locahost', port=5000): Max retries exceeded with url: /luminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019423B38340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 40, in SetRoomLightComfortable
+    setLampValue(value=60)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 92, in setLampValue
+    requests.post("http://locahost:5000/luminance", json={"lamp_lumaval":value})
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='locahost', port=5000): Max retries exceeded with url: /luminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019423B38340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-09-29 00:50:06 : INFO : Func=solver : Log=Brightness: 30.986949803883455
+2022-09-29 00:50:06 : INFO : Func=solver : Log=Brightness is low.
+2022-09-29 00:50:06 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-29 00:50:06 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-29 00:50:06 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-29 00:50:08 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1253, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1299, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1248, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1008, in _send_output
+    self.send(msg)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 948, in send
+    self.connect()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000021B3DCA8340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='locahost', port=5000): Max retries exceeded with url: /luminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021B3DCA8340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 40, in SetRoomLightComfortable
+    setLampValue(value=60)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 92, in setLampValue
+    requests.post("http://locahost:5000/luminance", json={"lamp_lumaval":value})
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='locahost', port=5000): Max retries exceeded with url: /luminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021B3DCA8340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-09-29 00:55:48 : INFO : Func=solver : Log=Brightness: 29.75795595660296
+2022-09-29 00:55:48 : INFO : Func=solver : Log=Brightness is low.
+2022-09-29 00:55:48 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-29 00:55:49 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-29 00:55:49 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-29 00:55:51 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1253, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1299, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1248, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1008, in _send_output
+    self.send(msg)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 948, in send
+    self.connect()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001AE84ED8340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='locahost', port=5000): Max retries exceeded with url: /luminance/set (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AE84ED8340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 40, in SetRoomLightComfortable
+    setLampValue(value=60)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 92, in setLampValue
+    requests.post("http://locahost:5000/luminance/set", json={"lamp_lumaval":value})
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='locahost', port=5000): Max retries exceeded with url: /luminance/set (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AE84ED8340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-09-29 01:00:20 : INFO : Func=solver : Log=Brightness: 31.170120164047376
+2022-09-29 01:00:20 : INFO : Func=solver : Log=Brightness is low.
+2022-09-29 01:00:20 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-29 01:00:20 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-29 01:00:20 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-29 01:01:24 : INFO : Func=solver : Log=Brightness: 31.154083482425893
+2022-09-29 01:01:24 : INFO : Func=solver : Log=Brightness is low.
+2022-09-29 01:01:24 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-29 01:01:25 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-29 01:01:25 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-29 01:02:33 : INFO : Func=solver : Log=Brightness: 29.63050246899817
+2022-09-29 01:02:33 : INFO : Func=solver : Log=Brightness is low.
+2022-09-29 01:02:33 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-29 01:02:33 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-29 01:02:33 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-29 01:10:37 : INFO : Func=solver : Log=Brightness: 30.50260734772537
+2022-09-29 01:10:37 : INFO : Func=solver : Log=Brightness is low.
+2022-09-29 01:10:37 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-29 01:10:38 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-29 01:10:38 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-29 01:12:18 : INFO : Func=solver : Log=Brightness: 30.712034227373795
+2022-09-29 01:12:18 : INFO : Func=solver : Log=Brightness is low.
+2022-09-29 01:12:18 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-29 01:12:19 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-29 01:12:19 : DEBUG : Func=solver : Log=Plan generated.
+2022-09-29 01:13:11 : INFO : Func=solver : Log=Brightness: 30.547574237957537
+2022-09-29 01:13:11 : INFO : Func=solver : Log=Brightness is low.
+2022-09-29 01:13:11 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-09-29 01:13:12 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-09-29 01:13:12 : DEBUG : Func=solver : Log=Plan generated.
+2022-10-01 18:21:24 : INFO : Func=solver : Log=Brightness: 30.11465606023044
+2022-10-01 18:21:24 : INFO : Func=solver : Log=Brightness is low.
+2022-10-01 18:21:24 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-01 18:21:25 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-01 18:21:25 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 39, in SetRoomLightComfortable
+    solver.solve(log)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\AI_Planner\pddl.py", line 28, in solve
+    print(f"{response['result']['output']}")
+TypeError: string indices must be integers
+2022-10-01 18:23:16 : INFO : Func=solver : Log=Brightness: 29.650878570702556
+2022-10-01 18:23:16 : INFO : Func=solver : Log=Brightness is low.
+2022-10-01 18:23:16 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-01 18:23:17 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-01 18:23:17 : DEBUG : Func=solver : Log=Plan generated.
+2022-10-01 18:24:58 : INFO : Func=solver : Log=Brightness: 30.077476146515888
+2022-10-01 18:24:58 : INFO : Func=solver : Log=Brightness is low.
+2022-10-01 18:24:58 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-01 18:24:59 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-01 18:24:59 : DEBUG : Func=solver : Log=Plan generated.
+2022-10-01 18:29:13 : INFO : Func=solver : Log=Brightness: 30.122488048858067
+2022-10-01 18:29:13 : INFO : Func=solver : Log=Brightness is low.
+2022-10-01 18:29:13 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-01 18:29:14 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-01 18:29:14 : DEBUG : Func=solver : Log=Plan generated.
+2022-10-01 18:29:37 : INFO : Func=solver : Log=Brightness: 29.941083803978717
+2022-10-01 18:29:37 : INFO : Func=solver : Log=Brightness is low.
+2022-10-01 18:29:37 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-01 18:29:37 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-01 18:29:37 : DEBUG : Func=solver : Log=Plan generated.
+2022-10-01 18:30:29 : INFO : Func=solver : Log=Brightness: 30.215887142498858
+2022-10-01 18:30:29 : INFO : Func=solver : Log=Brightness is low.
+2022-10-01 18:30:29 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-01 18:30:29 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-01 18:30:29 : DEBUG : Func=solver : Log=Plan generated.
+2022-10-01 18:30:29 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 41, in SetRoomLightComfortable
+    print("value=" + (comfort_luminance[0] - brightness))
+TypeError: can only concatenate str (not "float") to str
+2022-10-01 18:30:44 : INFO : Func=solver : Log=Brightness: 29.656720073181354
+2022-10-01 18:30:44 : INFO : Func=solver : Log=Brightness is low.
+2022-10-01 18:30:44 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-01 18:30:44 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-01 18:30:44 : DEBUG : Func=solver : Log=Plan generated.
+2022-10-03 01:27:10 : INFO : Func=solver : Log=Brightness: 30.71903248444919
+2022-10-03 01:27:10 : INFO : Func=solver : Log=Brightness is low.
+2022-10-03 01:27:10 : DEBUG : Func=solver : Log=Goal set in problem file.
+2022-10-03 01:27:11 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-03 01:27:11 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-03 01:27:11 : DEBUG : Func=solver : Log=Plan generated.
+2022-10-03 01:27:13 : ERROR : Func=solver : Log=Luminance cannot be set
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 79, in setLampValue
+    log.log_info("Func=" + __name__ + " : " + "Log=Brightness set to " + value)
+TypeError: can only concatenate str (not "float") to str
+2022-10-03 01:27:15 : ERROR : Func=solver : Log=Luminance cannot be set
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\solver.py", line 79, in setLampValue
+    log.log_info("Func=" + __name__ + " : " + "Log=Brightness set to " + value)
+TypeError: can only concatenate str (not "float") to str
+2022-10-03 01:29:30 : INFO : Func=solver : Log=Brightness: 30.29941780502757
+2022-10-03 01:29:30 : INFO : Func=solver : Log=Brightness is low.
+2022-10-03 01:29:30 : DEBUG : Func=solver : Log=Goal set in problem file.
+2022-10-03 01:29:30 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-03 01:29:31 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-03 01:29:31 : DEBUG : Func=solver : Log=Plan generated.
+2022-10-03 01:29:33 : INFO : Func=solver : Log=Brightness set to 19.70058219497243
+2022-10-03 01:29:35 : INFO : Func=solver : Log=Brightness set to 50.0
+2022-10-03 01:32:23 : INFO : Func=solver : Log=Brightness: 30.28686348466079
+2022-10-03 01:32:23 : INFO : Func=solver : Log=Brightness is low.
+2022-10-03 01:32:23 : DEBUG : Func=solver : Log=Goal set in problem file.
+2022-10-03 01:32:23 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-03 01:32:24 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-03 01:32:24 : DEBUG : Func=solver : Log=Plan generated.
+2022-10-03 01:32:26 : INFO : Func=solver : Log=Luminance increased to 19.71313651533921
+2022-10-03 01:35:38 : INFO : Func=solver : Log=Brightness: 30.804492527405998
+2022-10-03 01:35:38 : INFO : Func=solver : Log=Brightness is low.
+2022-10-03 01:35:38 : DEBUG : Func=solver : Log=Goal set in problem file.
+2022-10-03 01:35:38 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-03 01:35:38 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-03 01:35:38 : DEBUG : Func=solver : Log=Plan generated.
+2022-10-03 01:35:38 : DEBUG : Func=solver : Log=Performing action action_increase_brightness
+2022-10-03 01:35:40 : INFO : Func=solver : Log=Luminance increased to 19.195507472594002
+2022-10-03 01:43:42 : INFO : Func=solver : Log=Brightness: 30.618898062103188
+2022-10-03 01:43:42 : INFO : Func=solver : Log=Brightness is low.
+2022-10-03 01:43:42 : DEBUG : Func=solver : Log=Goal set in problem file.
+2022-10-03 01:43:42 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-03 01:43:43 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-03 01:43:43 : DEBUG : Func=solver : Log=Plan generated.
+2022-10-03 01:43:43 : DEBUG : Func=solver : Log=Performing action action_increase_brightness
+2022-10-03 01:43:45 : INFO : Func=solver : Log=Luminance increased to 50.0
+2022-10-03 01:44:47 : INFO : Func=solver : Log=Brightness: 31.066341076301885
+2022-10-03 01:44:47 : INFO : Func=solver : Log=Brightness is low.
+2022-10-03 01:44:47 : DEBUG : Func=solver : Log=Goal set in problem file.
+2022-10-03 01:44:47 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-03 01:44:48 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-03 01:44:48 : DEBUG : Func=solver : Log=Plan generated.
+2022-10-03 01:44:48 : DEBUG : Func=solver : Log=Performing action action_increase_brightness
+2022-10-03 01:44:50 : DEBUG : Func=solver : Log=Luminance increased to 50.0
+2022-10-03 02:17:16 : ERROR : Func=readSensorValues : Log=HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002530B9BD580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1253, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1299, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1248, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1008, in _send_output
+    self.send(msg)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 948, in send
+    self.connect()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000002530B9BD580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002530B9BD580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\readSensorValues.py", line 13, in readBrightness
+    httpResponse = requests.post('http://192.168.0.102:5000/brightness?value')
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002530B9BD580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2022-10-03 02:17:16 : INFO : Func=ComfortAnalyserSolver : Log=Brightness: HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002530B9BD580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2022-10-03 02:17:16 : ERROR : AI Planner has encountered an error!
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\ComfortAnalyserSolver.py", line 29, in SetRoomLightComfortable
+    if brightness <= comfort_luminance[0]:
+TypeError: '<=' not supported between instances of 'ConnectionError' and 'float'
+2022-10-03 02:22:16 : ERROR : Func=readSensorValues : Log=HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A2E544D580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1253, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1299, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1248, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1008, in _send_output
+    self.send(msg)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 948, in send
+    self.connect()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001A2E544D580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A2E544D580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\readSensorValues.py", line 13, in readBrightness
+    httpResponse = requests.post('http://192.168.0.102:5000/brightness?value')
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A2E544D580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2022-10-03 02:22:16 : ERROR : Func=ComfortAnalyserSolver : Log=Cannot read brightness
+NoneType: None
+2022-10-03 02:22:16 : INFO : Func=ComfortAnalyserSolver : Log=Brightness: False
+2022-10-03 02:22:16 : INFO : Func=ComfortAnalyserSolver : Log=Brightness is low.
+2022-10-03 02:22:16 : DEBUG : Func=ComfortAnalyserSolver : Log=Goal set in problem file.
+2022-10-03 02:22:16 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-03 02:22:17 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-03 02:22:17 : DEBUG : Func=ComfortAnalyserSolver : Log=Plan generated.
+2022-10-03 02:22:17 : DEBUG : Func=ComfortAnalyserSolver : Log=Performing action action_increase_brightness
+2022-10-03 02:22:21 : ERROR : Func=ComfortAnalyserSolver : Log=Luminance cannot be set
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1253, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1299, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1248, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1008, in _send_output
+    self.send(msg)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 948, in send
+    self.connect()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001A2E544DF40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /luminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A2E544DF40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\ComfortAnalyserSolver.py", line 85, in setLampValue
+    requests.post("http://localhost:5000/luminance", json={"lamp_lumaval": value})
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /luminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A2E544DF40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2022-10-03 02:28:57 : ERROR : Func=readSensorValues : Log=HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B19AB6D580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1253, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1299, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1248, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1008, in _send_output
+    self.send(msg)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 948, in send
+    self.connect()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000002B19AB6D580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B19AB6D580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\readSensorValues.py", line 13, in readBrightness
+    httpResponse = requests.post('http://192.168.0.102:5000/brightness?value')
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B19AB6D580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2022-10-03 02:28:57 : ERROR : Func=ComfortAnalyserSolver : Log=Cannot read brightness
+NoneType: None
+2022-10-03 02:31:43 : ERROR : Func=readSensorValues : Log=HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A3D7DD520>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1253, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1299, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1248, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1008, in _send_output
+    self.send(msg)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 948, in send
+    self.connect()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000024A3D7DD520>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A3D7DD520>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\readSensorValues.py", line 13, in readBrightness
+    httpResponse = requests.post('http://192.168.0.102:5000/brightness?value')
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A3D7DD520>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2022-10-03 02:31:43 : ERROR : Func=ComfortAnalyserSolver : Log=Cannot read brightness
+NoneType: None
+2022-10-03 02:39:12 : INFO : Func=ComfortAnalyserSolver : Log=Brightness: 30.256937727231236
+2022-10-03 02:39:12 : INFO : Func=ComfortAnalyserSolver : Log=Brightness is low.
+2022-10-03 02:39:12 : DEBUG : Func=ComfortAnalyserSolver : Log=Goal set in problem file.
+2022-10-03 02:39:12 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-03 02:39:12 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-03 02:39:12 : DEBUG : Func=ComfortAnalyserSolver : Log=Plan generated.
+2022-10-03 02:39:12 : DEBUG : Func=ComfortAnalyserSolver : Log=Performing action action_increase_brightness
+2022-10-03 02:39:14 : DEBUG : Func=ComfortAnalyserSolver : Log=Luminance increased to 19.743062272768764
+2022-10-03 21:18:24 : INFO : Func=InputClassifier : Log=Setting luminance to 100 luma.
+2022-10-03 21:19:04 : INFO : Func=InputClassifier : Log=Setting luminance to 0 luma.
+2022-10-03 21:26:59 : INFO : Func=InputClassifier : Log=Setting luminance to 100 luma.
+2022-10-03 21:26:59 : ERROR : Func=InputClassifier : Log=Invalid Luminance value
+NoneType: None
+2022-10-03 21:28:38 : INFO : Func=InputClassifier : Log=Setting luminance to 100 luma.
+2022-10-03 21:28:38 : INFO : Func=InputClassifier : Log=Luminance set to 100 luma.
+2022-10-03 21:28:38 : ERROR : Func=InputClassifier : Log=Invalid Instruction
+NoneType: None
+2022-10-03 21:29:18 : INFO : Func=InputClassifier : Log=Setting luminance to 100 luma.
+2022-10-03 21:29:18 : ERROR : Func=InputClassifier : Log=Invalid Luminance value
+NoneType: None
+2022-10-03 21:30:48 : INFO : Func=InputClassifier : Log=Setting luminance to 100 luma.
+2022-10-03 21:30:48 : ERROR : Func=InputClassifier : Log=Invalid Luminance value
+NoneType: None
+2022-10-03 21:31:53 : INFO : Func=InputClassifier : Log=Setting luminance to 100 luma.
+2022-10-03 21:31:53 : INFO : Func=InputClassifier : Log=Luminance set to 100 luma.
+2022-10-03 21:31:53 : ERROR : Func=InputClassifier : Log=Invalid Instruction
+NoneType: None
+2022-10-03 21:35:35 : INFO : Func=InputClassifier : Log=Setting luminance to 100 luma.
+2022-10-03 21:35:35 : INFO : Func=InputClassifier : Log=Luminance set to 100 luma.
+2022-10-03 21:35:35 : ERROR : Func=InputClassifier : Log=Invalid Instruction
+NoneType: None
+2022-10-03 21:46:32 : INFO : Func=InputClassifier : Log=Setting luminance to 100 luma.
+2022-10-03 21:46:32 : INFO : Func=InputClassifier : Log=Luminance set to 100 luma.
+2022-10-03 21:46:32 : ERROR : Func=InputClassifier : Log=Invalid Instruction
+NoneType: None
+2022-10-03 21:47:43 : INFO : Func=InputClassifier : Log=Setting luminance to 100 luma.
+2022-10-03 21:47:43 : INFO : Func=InputClassifier : Log=Luminance set to 100 luma.
+2022-10-03 21:47:43 : ERROR : Func=InputClassifier : Log=Invalid Instruction
+NoneType: None
+2022-10-03 21:48:50 : INFO : Func=InputClassifier : Log=Setting luminance to 100 luma.
+2022-10-03 21:48:50 : INFO : Func=InputClassifier : Log=Luminance set to 100 luma.
+2022-10-03 21:48:50 : ERROR : Func=InputClassifier : Log=Invalid Instruction
+NoneType: None
+2022-10-03 21:50:40 : INFO : Func=InputClassifier : Log=Setting luminance to 100 luma.
+2022-10-03 21:50:40 : INFO : Func=InputClassifier : Log=Luminance set to 100 luma.
+2022-10-03 21:50:40 : ERROR : Func=InputClassifier : Log=Invalid Instruction
+NoneType: None
+2022-10-03 21:53:49 : INFO : Func=InputClassifier : Log=Setting luminance to 100 luma.
+2022-10-03 21:53:49 : INFO : Func=InputClassifier : Log=Luminance set to 100 luma.
+2022-10-03 21:53:49 : ERROR : Func=InputClassifier : Log=Invalid Instruction
+NoneType: None
+2022-10-03 21:56:25 : INFO : Func=InputClassifier : Log=Setting luminance to 100 luma.
+2022-10-03 21:56:25 : INFO : Func=InputClassifier : Log=Luminance set to 100 luma.
+2022-10-03 21:56:38 : INFO : Func=InputClassifier : Log=Setting luminance to 100 luma.
+2022-10-03 21:56:38 : INFO : Func=InputClassifier : Log=Luminance set to 100 luma.
+2022-10-03 22:03:33 : INFO : Func=InputClassifier : Log=Setting luminance to 100 luma.
+2022-10-03 22:03:33 : INFO : Func=InputClassifier : Log=Luminance set to 100 luma.
+2022-10-03 22:11:36 : INFO : Func=InputClassifier : Log=Setting luminance to 100 luma.
+2022-10-03 22:11:36 : INFO : Func=InputClassifier : Log=Luminance set to 100 luma.
+2022-10-03 22:11:49 : INFO : Func=InputClassifier : Log=Setting luminance to 0 luma.
+2022-10-03 22:11:49 : INFO : Func=InputClassifier : Log=Luminance set to 0 luma.
+2022-10-03 22:11:55 : ERROR : Func=InputClassifier : Log=Invalid Instruction
+NoneType: None
+2022-10-03 22:12:01 : ERROR : Func=InputClassifier : Log=Invalid Instruction
+NoneType: None
+2022-10-03 22:12:12 : ERROR : Func=InputClassifier : Log=Invalid Instruction
+NoneType: None
+2022-10-03 22:14:01 : INFO : Func=InputClassifier : Log=Setting luminance to 88 luma.
+2022-10-03 22:14:01 : INFO : Func=InputClassifier : Log=Luminance set to 88 luma.
+2022-10-03 22:14:07 : ERROR : Func=InputClassifier : Log=Invalid Instruction
+NoneType: None
+2022-10-03 22:14:31 : INFO : Func=ComfortAnalyserSolver : Log=Brightness: 30.14493900000874
+2022-10-03 22:14:31 : INFO : Func=ComfortAnalyserSolver : Log=Brightness is low.
+2022-10-03 22:14:32 : DEBUG : Func=ComfortAnalyserSolver : Log=Goal set in problem file.
+2022-10-03 22:14:32 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-03 22:14:32 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-03 22:14:32 : DEBUG : Func=ComfortAnalyserSolver : Log=Plan generated.
+2022-10-03 22:14:32 : DEBUG : Func=ComfortAnalyserSolver : Log=Performing action action_increase_brightness
+2022-10-03 22:14:34 : DEBUG : Func=ComfortAnalyserSolver : Log=Luminance increased to 19.85506099999126
+2022-10-03 22:14:34 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-03 22:14:35 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-03 22:14:35 : DEBUG : Func=ComfortAnalyserSolver : Log=Plan generated.
+2022-10-03 22:16:24 : INFO : Func=InputClassifier : Log=Setting temperature to 18 degree celsius.
+2022-10-03 22:16:24 : INFO : Func=InputClassifier : Log=Temperature set to 18 degree celsius.
+2022-10-03 22:20:56 : INFO : Func=InputClassifier : Log=Setting luminance to 88 luma.
+2022-10-03 22:20:58 : INFO : Func=InputClassifier : Log=Luminance set to 88 luma.
+2022-10-03 22:21:30 : INFO : Func=InputClassifier : Log=Setting luminance to 20 luma.
+2022-10-03 22:21:32 : INFO : Func=InputClassifier : Log=Luminance set to 20 luma.
+2022-10-04 01:34:17 : ERROR : Func=InputClassifier : Log=Invalid Instruction
+NoneType: None
+2022-10-04 01:34:40 : INFO : Func=InputClassifier : Log=Setting luminance to 20 luma.
+2022-10-04 01:34:42 : INFO : Func=InputClassifier : Log=Luminance set to 20 luma.
+2022-10-04 01:35:04 : INFO : Func=InputClassifier : Log=Current lamp luminance is 20 luma.
+2022-10-04 01:37:29 : ERROR : Func=InputClassifier : Log=Cannot read current thermostat temperature
+NoneType: None
+2022-10-04 01:38:03 : INFO : Func=InputClassifier : Log=Setting temperature to 30 degree celsius.
+2022-10-04 01:38:05 : INFO : Func=InputClassifier : Log=Thermostat temperature set to 30degree celsius.
+2022-10-04 01:38:19 : ERROR : Func=InputClassifier : Log=Cannot read current thermostat temperature
+NoneType: None
+2022-10-04 01:39:34 : INFO : Func=InputClassifier : Log=Setting temperature to 30 degree celsius.
+2022-10-04 01:39:36 : INFO : Func=InputClassifier : Log=Thermostat temperature set to 30 degree celsius.
+2022-10-04 01:39:43 : ERROR : Func=InputClassifier : Log=Cannot read current thermostat temperature
+NoneType: None
+2022-10-04 01:41:19 : INFO : Func=InputClassifier : Log=Setting temperature to 30 degree celsius.
+2022-10-04 01:41:21 : INFO : Func=InputClassifier : Log=Thermostat temperature set to 30 degree celsius.
+2022-10-04 01:42:54 : INFO : Func=InputClassifier : Log=Setting temperature to 30 degree celsius.
+2022-10-04 01:42:56 : INFO : Func=InputClassifier : Log=Thermostat temperature set to 30 degree celsius.
+2022-10-04 01:43:07 : INFO : Func=InputClassifier : Log=Current thermostat temperature is 30 degree celsius.
+2022-10-04 01:44:55 : INFO : Func=InputClassifier : Log=message: {'content_type': 'text', 'id': 330, 'message_id': 330, 'from_user': {'id': 1368511392, 'is_bot': False, 'first_name': 'Celeste', 'username': None, 'last_name': None, 'language_code': 'en', 'can_join_groups': None, 'can_read_all_group_messages': None, 'supports_inline_queries': None, 'is_premium': None, 'added_to_attachment_menu': None}, 'date': 1664840694, 'chat': {'id': 1368511392, 'type': 'private', 'title': None, 'username': None, 'first_name': 'Celeste', 'last_name': None, 'photo': None, 'bio': None, 'join_to_send_messages': None, 'join_by_request': None, 'has_private_forwards': None, 'has_restricted_voice_and_video_messages': None, 'description': None, 'invite_link': None, 'pinned_message': None, 'permissions': None, 'slow_mode_delay': None, 'message_auto_delete_time': None, 'has_protected_content': None, 'sticker_set_name': None, 'can_set_sticker_set': None, 'linked_chat_id': None, 'location': None}, 'sender_chat': None, 'forward_from': None, 'forward_from_chat': None, 'forward_from_message_id': None, 'forward_signature': None, 'forward_sender_name': None, 'forward_date': None, 'is_automatic_forward': None, 'reply_to_message': None, 'via_bot': None, 'edit_date': None, 'has_protected_content': None, 'media_group_id': None, 'author_signature': None, 'text': 'Get_Thermostat_Temperature', 'entities': None, 'caption_entities': None, 'audio': None, 'document': None, 'photo': None, 'sticker': None, 'video': None, 'video_note': None, 'voice': None, 'caption': None, 'contact': None, 'location': None, 'venue': None, 'animation': None, 'dice': None, 'new_chat_member': None, 'new_chat_members': None, 'left_chat_member': None, 'new_chat_title': None, 'new_chat_photo': None, 'delete_chat_photo': None, 'group_chat_created': None, 'supergroup_chat_created': None, 'channel_chat_created': None, 'migrate_to_chat_id': None, 'migrate_from_chat_id': None, 'pinned_message': None, 'invoice': None, 'successful_payment': None, 'connected_website': None, 'reply_markup': None, 'json': {'message_id': 330, 'from': {'id': 1368511392, 'is_bot': False, 'first_name': 'Celeste', 'language_code': 'en'}, 'chat': {'id': 1368511392, 'first_name': 'Celeste', 'type': 'private'}, 'date': 1664840694, 'text': 'Get_Thermostat_Temperature'}}
+2022-10-04 01:44:55 : ERROR : Func=InputClassifier : Log=Cannot read current thermostat temperature
+NoneType: None
+2022-10-04 01:46:14 : INFO : Func=InputClassifier : Log=message: Get_Thermostat_Temperature
+2022-10-04 01:46:14 : ERROR : Func=InputClassifier : Log=Cannot read current thermostat temperature
+NoneType: None
+2022-10-04 01:46:29 : INFO : Func=InputClassifier : Log=message: Set_Thermostat_Temperature 30
+2022-10-04 01:46:29 : INFO : Func=InputClassifier : Log=Setting temperature to 30 degree celsius.
+2022-10-04 01:46:31 : INFO : Func=InputClassifier : Log=Thermostat temperature set to 30 degree celsius.
+2022-10-04 01:46:43 : INFO : Func=InputClassifier : Log=message: Get_Thermostat_Temperature
+2022-10-04 01:46:43 : INFO : Func=InputClassifier : Log=Current thermostat temperature is 30 degree celsius.
+2022-10-04 01:47:06 : INFO : Func=InputClassifier : Log=message: Vxhdjjs hsjj
+2022-10-04 01:47:06 : ERROR : Func=InputClassifier : Log=Invalid Instruction
+NoneType: None
+2022-10-04 01:50:21 : INFO : Func=InputClassifier : Log=message: Set_Lamp_Luminance 50
+2022-10-04 01:50:21 : INFO : Func=InputClassifier : Log=Setting luminance to 50 luma.
+2022-10-04 01:50:23 : INFO : Func=InputClassifier : Log=Luminance set to 50 luma.
+2022-10-04 01:50:53 : INFO : Func=InputClassifier : Log=message: Get_Lamp_Luminance
+2022-10-04 01:50:53 : INFO : Func=InputClassifier : Log=Current lamp luminance is 50 luma.
+2022-10-04 01:51:12 : INFO : Func=InputClassifier : Log=message: Get_Room_Brightness
+2022-10-04 01:51:12 : INFO : Func=InputClassifier : Log=Current brightness is 92.68970213806642 luma.
+2022-10-04 01:51:24 : INFO : Func=InputClassifier : Log=message: Set_Room_Light_Comfortable
+2022-10-04 01:51:24 : INFO : Func=ComfortAnalyserSolver : Log=Brightness: 93.28786516248478
+2022-10-04 01:51:24 : INFO : Func=ComfortAnalyserSolver : Log=Brightness is high.
+2022-10-04 01:51:24 : DEBUG : Func=ComfortAnalyserSolver : Log=Goal set in problem file.
+2022-10-04 01:51:24 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-04 01:51:25 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-04 01:51:25 : DEBUG : Func=ComfortAnalyserSolver : Log=Plan generated.
+2022-10-04 01:51:25 : DEBUG : Func=ComfortAnalyserSolver : Log=Performing action action_decrease_brightness
+2022-10-04 01:51:27 : DEBUG : Func=ComfortAnalyserSolver : Log=Luminance increased to 26.712134837515222
+2022-10-04 01:51:47 : INFO : Func=InputClassifier : Log=message: Get_Lamp_Luminance
+2022-10-04 01:51:47 : INFO : Func=InputClassifier : Log=Current lamp luminance is 26.712134837515222 luma.
+2022-10-04 01:53:14 : INFO : Func=InputClassifier : Log=message: Set_Room_Light_Comfortable
+2022-10-04 01:53:14 : INFO : Func=ComfortAnalyserSolver : Log=Brightness: 88.24123609311997
+2022-10-04 01:53:14 : INFO : Func=ComfortAnalyserSolver : Log=Brightness is high.
+2022-10-04 01:53:14 : DEBUG : Func=ComfortAnalyserSolver : Log=Goal set in problem file.
+2022-10-04 01:53:14 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-04 01:53:14 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-04 01:53:14 : DEBUG : Func=ComfortAnalyserSolver : Log=Plan generated.
+2022-10-04 01:53:14 : DEBUG : Func=ComfortAnalyserSolver : Log=Performing action action_decrease_brightness
+2022-10-04 01:53:16 : DEBUG : Func=ComfortAnalyserSolver : Log=Luminance increased to -18.241236093119966
+2022-10-04 01:53:34 : INFO : Func=InputClassifier : Log=message: Set_Lamp_Luminance 50
+2022-10-04 01:53:34 : INFO : Func=InputClassifier : Log=Setting luminance to 50 luma.
+2022-10-04 01:53:36 : INFO : Func=InputClassifier : Log=Luminance set to 50 luma.
+2022-10-04 01:54:04 : INFO : Func=InputClassifier : Log=message: Get_Lamp_Luminance
+2022-10-04 01:54:04 : INFO : Func=InputClassifier : Log=Current lamp luminance is 50 luma.
+2022-10-04 01:54:16 : INFO : Func=InputClassifier : Log=message: Get_Room_Brightness
+2022-10-04 01:54:16 : INFO : Func=InputClassifier : Log=Current brightness is 92.673476083268 luma.
+2022-10-04 01:54:24 : INFO : Func=InputClassifier : Log=message: Set_Room_Light_Comfortable
+2022-10-04 01:54:24 : INFO : Func=ComfortAnalyserSolver : Log=Brightness: 90.73777321412592
+2022-10-04 01:54:24 : INFO : Func=ComfortAnalyserSolver : Log=Brightness is high.
+2022-10-04 01:54:24 : DEBUG : Func=ComfortAnalyserSolver : Log=Goal set in problem file.
+2022-10-04 01:54:24 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-04 01:54:25 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-04 01:54:25 : DEBUG : Func=ComfortAnalyserSolver : Log=Plan generated.
+2022-10-04 01:54:25 : DEBUG : Func=ComfortAnalyserSolver : Log=Performing action action_decrease_brightness
+2022-10-04 01:54:27 : DEBUG : Func=ComfortAnalyserSolver : Log=Lamp luminance set to 29.262226785874077
+2022-10-04 02:02:06 : INFO : Func=InputClassifier : Log=message: Set_Room_Light_Comfortable
+2022-10-04 02:02:08 : ERROR : Func=readSensorValues : Log=HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D453B9E880>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1253, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1299, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1248, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1008, in _send_output
+    self.send(msg)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 948, in send
+    self.connect()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001D453B9E880>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D453B9E880>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\readSensorValues.py", line 13, in readBrightness
+    httpResponse = requests.post('http://192.168.0.102:5000/brightness?value')
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D453B9E880>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2022-10-04 02:02:10 : ERROR : Func=readSensorValues : Log=HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /luminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D453C35280>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1253, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1299, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1248, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1008, in _send_output
+    self.send(msg)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 948, in send
+    self.connect()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001D453C35280>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /luminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D453C35280>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\readSensorValues.py", line 26, in readLampLuminance
+    httpResponse = requests.get('http://192.168.0.102:5000/luminance')
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /luminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D453C35280>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2022-10-04 02:02:10 : ERROR : Func=ComfortAnalyserSolver : Log=Cannot read brightness
+NoneType: None
+2022-10-04 22:32:29 : INFO : Func=InputClassifier : Log=message: Get_Thermostat_Temperature
+2022-10-04 22:32:29 : INFO : Func=InputClassifier : Log=Current thermostat temperature is 25 degree celsius.
+2022-10-04 22:55:19 : INFO : Func=InputClassifier : Log=message: Get_Thermostat_Temperature
+2022-10-04 22:55:19 : ERROR : Func=InputClassifier : Log=Cannot read current thermostat temperature
+NoneType: None
+2022-10-04 22:56:34 : INFO : Func=InputClassifier : Log=message: Get_Thermostat_Temperature
+2022-10-04 22:56:34 : INFO : Func=InputClassifier : Log=Current thermostat temperature is 25 degree celsius.
+2022-10-04 22:56:46 : INFO : Func=InputClassifier : Log=message: Get_AC_Temperature
+2022-10-04 22:56:46 : INFO : Func=InputClassifier : Log=Current AC temperature is 25 degree celsius.
+2022-10-04 23:02:03 : INFO : Func=InputClassifier : Log=message: Set_Thermostat_Temperature 30
+2022-10-04 23:02:03 : INFO : Func=InputClassifier : Log=Setting temperature to 30 degree celsius.
+2022-10-04 23:02:05 : INFO : Func=InputClassifier : Log=Thermostat temperature set to 30 degree celsius.
+2022-10-04 23:03:17 : INFO : Func=InputClassifier : Log=message: Set_Thermostat_Temperature 30
+2022-10-04 23:03:17 : INFO : Func=InputClassifier : Log=Setting temperature to 30 degree celsius.
+2022-10-04 23:03:19 : INFO : Func=InputClassifier : Log=Thermostat temperature set to 30 degree celsius.
+2022-10-04 23:04:02 : INFO : Func=InputClassifier : Log=message: Set_Thermostat_Temperature
+2022-10-04 23:04:25 : INFO : Func=InputClassifier : Log=message: Set_Thermostat_Temperature 30
+2022-10-04 23:04:25 : INFO : Func=InputClassifier : Log=Setting temperature to 30 degree celsius.
+2022-10-04 23:04:27 : INFO : Func=InputClassifier : Log=Thermostat temperature set to 30 degree celsius.
+2022-10-04 23:27:57 : INFO : Func=InputClassifier : Log=message: Get_Thermostat_Status
+2022-10-04 23:27:57 : INFO : Func=InputClassifier : Log=Thermostat status is On
+2022-10-04 23:28:17 : INFO : Func=InputClassifier : Log=message: Set_Thermostat_Status Off
+2022-10-04 23:28:17 : ERROR : Func=InputClassifier : Log=Invalid Instruction
+NoneType: None
+2022-10-04 23:34:34 : INFO : Func=InputClassifier : Log=message: Get_Thermostat_Status
+2022-10-04 23:34:34 : INFO : Func=InputClassifier : Log=Thermostat status is On
+2022-10-04 23:34:40 : INFO : Func=InputClassifier : Log=message: Set_Thermostat_Status Off
+2022-10-04 23:34:40 : INFO : Func=InputClassifier : Log=Setting thermostat Off
+2022-10-04 23:34:42 : ERROR : Func=InputClassifier : Log=Invalid Instruction
+NoneType: None
+2022-10-04 23:35:46 : INFO : Func=InputClassifier : Log=message: Get_Thermostat_Status
+2022-10-04 23:35:46 : INFO : Func=InputClassifier : Log=Thermostat status is On
+2022-10-04 23:37:21 : INFO : Func=InputClassifier : Log=message: Get_Thermostat_Status
+2022-10-04 23:37:21 : INFO : Func=InputClassifier : Log=Thermostat status is On
+2022-10-04 23:37:26 : INFO : Func=InputClassifier : Log=message: Set_Thermostat_Status Off
+2022-10-04 23:37:26 : INFO : Func=InputClassifier : Log=Setting thermostat Off
+2022-10-04 23:37:35 : INFO : Func=InputClassifier : Log=message: Get_Thermostat_Status
+2022-10-04 23:37:35 : INFO : Func=InputClassifier : Log=Thermostat status is On
+2022-10-04 23:40:13 : INFO : Func=InputClassifier : Log=message: Get_Thermostat_Status
+2022-10-04 23:40:13 : INFO : Func=InputClassifier : Log=Thermostat status is On
+2022-10-04 23:40:20 : INFO : Func=InputClassifier : Log=message: Set_Thermostat_Status Off
+2022-10-04 23:40:20 : INFO : Func=InputClassifier : Log=Setting thermostat Off
+2022-10-04 23:40:29 : INFO : Func=InputClassifier : Log=message: Get_Thermostat_Status
+2022-10-04 23:40:29 : INFO : Func=InputClassifier : Log=Thermostat status is Off
+2022-10-04 23:41:22 : INFO : Func=InputClassifier : Log=message: Set_Thermostat_Temperature 30
+2022-10-04 23:41:22 : INFO : Func=InputClassifier : Log=Setting temperature to 30 degree celsius.
+2022-10-04 23:41:22 : ERROR : Func=InputClassifier : Log=Thermostat temperature cannot be set. Thermostat is Off.
+NoneType: None
+2022-10-04 23:41:31 : INFO : Func=InputClassifier : Log=message: Get_Thermostat_Status
+2022-10-04 23:41:31 : INFO : Func=InputClassifier : Log=Thermostat status is Off
+2022-10-04 23:41:45 : INFO : Func=InputClassifier : Log=message: Set_Thermostat_Status On
+2022-10-04 23:41:45 : INFO : Func=InputClassifier : Log=Setting thermostat On
+2022-10-04 23:42:12 : INFO : Func=InputClassifier : Log=message: Get_Thermostat_Temperature
+2022-10-04 23:42:12 : ERROR : Func=InputClassifier : Log=Cannot read current thermostat temperature
+NoneType: None
+2022-10-04 23:42:20 : INFO : Func=InputClassifier : Log=message: Set_Thermostat_Temperature 30
+2022-10-04 23:42:20 : INFO : Func=InputClassifier : Log=Setting temperature to 30 degree celsius.
+2022-10-04 23:42:22 : INFO : Func=InputClassifier : Log=Thermostat temperature set to 30 degree celsius.
+2022-10-04 23:42:27 : INFO : Func=InputClassifier : Log=message: Get_Thermostat_Temperature
+2022-10-04 23:42:27 : INFO : Func=InputClassifier : Log=Current thermostat temperature is 30 degree celsius.
+2022-10-06 11:50:54 : INFO : Func=InputClassifier : Log=message: Get_Room_Brightness
+2022-10-06 11:50:54 : INFO : Func=InputClassifier : Log=Current brightness is 89.39253704939948 luma.
+2022-10-06 12:02:06 : INFO : Func=InputClassifier : Log=message: Get_Lamp_Luminance
+2022-10-06 12:02:06 : ERROR : Func=InputClassifier : Log=Cannot read current lamp luminance
+NoneType: None
+2022-10-06 12:02:28 : INFO : Func=InputClassifier : Log=message: Set_Lamp_Luminance 20
+2022-10-06 12:02:28 : INFO : Func=InputClassifier : Log=Setting luminance to 20 luma.
+2022-10-06 12:02:30 : INFO : Func=InputClassifier : Log=Luminance set to 20 luma.
+2022-10-06 12:02:41 : INFO : Func=InputClassifier : Log=message: Get_Lamp_Luminance
+2022-10-06 12:02:41 : INFO : Func=InputClassifier : Log=Current lamp luminance is 20 luma.
+2022-10-06 12:02:56 : INFO : Func=InputClassifier : Log=message: Set_Room_Light_Comfortable
+2022-10-06 12:02:56 : INFO : Func=ComfortAnalyserSolver : Log=Brightness: 93.4332721735244
+2022-10-06 12:02:56 : INFO : Func=ComfortAnalyserSolver : Log=Brightness is high.
+2022-10-06 12:02:56 : DEBUG : Func=ComfortAnalyserSolver : Log=Goal set in problem file.
+2022-10-06 12:02:56 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-06 12:02:57 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-06 12:02:57 : DEBUG : Func=ComfortAnalyserSolver : Log=Plan generated.
+2022-10-06 12:02:57 : DEBUG : Func=ComfortAnalyserSolver : Log=Performing action action_decrease_brightness
+2022-10-06 12:02:59 : DEBUG : Func=ComfortAnalyserSolver : Log=Lamp luminance set to -3.4332721735244007
+2022-10-06 12:06:52 : INFO : Func=InputClassifier : Log=message: Get_Lamp_Luminance
+2022-10-06 12:06:52 : INFO : Func=InputClassifier : Log=Current lamp luminance is -3.4332721735244007 luma.
+2022-10-06 16:57:26 : INFO : Func=InputClassifier : Log=message: Get_Room_Brightness
+2022-10-06 16:57:28 : ERROR : Func=readSensorValues : Log=HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002831866BF10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1253, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1299, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1248, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1008, in _send_output
+    self.send(msg)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 948, in send
+    self.connect()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000002831866BF10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002831866BF10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\readSensorValues.py", line 13, in readBrightness
+    httpResponse = requests.post('http://192.168.0.102:5000/brightness?value')
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002831866BF10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2022-10-06 16:57:29 : ERROR : Func=InputClassifier : Log=Cannot read current brightness
+NoneType: None
+2022-10-06 17:52:41 : INFO : Func=InputClassifier : Log=message: Get_Room_Brightness
+2022-10-06 17:52:43 : ERROR : Func=readSensorValues : Log=HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020AF0674BB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1253, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1299, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1248, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1008, in _send_output
+    self.send(msg)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 948, in send
+    self.connect()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000020AF0674BB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020AF0674BB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\readSensorValues.py", line 13, in readBrightness
+    httpResponse = requests.post('http://192.168.0.102:5000/brightness?value')
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020AF0674BB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2022-10-06 17:52:44 : ERROR : Func=InputClassifier : Log=Cannot read current brightness
+NoneType: None
+2022-10-06 22:05:26 : INFO : Func=InputClassifier : Log=message: Set_Room_Temp_Comfortable
+2022-10-06 22:05:26 : INFO : Func=ComfortAnalyserSolver : Log=Season: Winter
+2022-10-06 22:05:26 : INFO : Func=ComfortAnalyserSolver : Log=Temperature: 24.799595862058734
+2022-10-06 22:05:26 : INFO : Func=ComfortAnalyserSolver : Log=Thermostat temperature: 24.799595862058734
+2022-10-06 22:05:26 : INFO : Func=ComfortAnalyserSolver : Log=Temperature is high.
+2022-10-06 22:05:26 : DEBUG : Func=ComfortAnalyserSolver : Log=Goal set in problem file.
+2022-10-06 22:05:26 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-06 22:05:27 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-06 22:05:27 : DEBUG : Func=ComfortAnalyserSolver : Log=Plan generated.
+2022-10-06 22:05:27 : DEBUG : Func=ComfortAnalyserSolver : Log=Performing action action_ac_off
+2022-10-06 22:10:38 : INFO : Func=InputClassifier : Log=message: Set_Room_Temp_Comfortable
+2022-10-06 22:10:39 : INFO : Func=ComfortAnalyserSolver : Log=Season: Winter
+2022-10-06 22:10:39 : INFO : Func=ComfortAnalyserSolver : Log=Temperature: 24.770893688126073
+2022-10-06 22:10:39 : INFO : Func=ComfortAnalyserSolver : Log=Thermostat temperature: 24.770893688126073
+2022-10-06 22:10:39 : INFO : Func=ComfortAnalyserSolver : Log=Temperature is high.
+2022-10-06 22:10:39 : DEBUG : Func=ComfortAnalyserSolver : Log=Goal set in problem file.
+2022-10-06 22:10:39 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-06 22:10:39 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-06 22:10:39 : DEBUG : Func=ComfortAnalyserSolver : Log=Plan generated.
+2022-10-06 22:10:39 : DEBUG : Func=ComfortAnalyserSolver : Log=Performing action action_ac_off
+2022-10-06 22:10:41 : INFO : Func=ComfortAnalyserSolver : Log=AC is Off.
+2022-10-06 22:10:41 : DEBUG : Func=ComfortAnalyserSolver : Log=Performing action action_decreasetemperature_winter
+2022-10-06 22:10:43 : INFO : Func=ComfortAnalyserSolver : Log=Thermostat temperature set to 50.0 degree celsius.
+2022-10-06 22:11:17 : INFO : Func=InputClassifier : Log=message: Get_AC_Status
+2022-10-06 22:11:17 : INFO : Func=InputClassifier : Log=AC status is Off
+2022-10-06 22:11:39 : INFO : Func=InputClassifier : Log=message: Get_Thermostat_Temperature
+2022-10-06 22:11:39 : INFO : Func=InputClassifier : Log=Current thermostat temperature is 50.0 degree celsius.
+2022-10-07 11:36:19 : INFO : Func=InputClassifier : Log=message: Get_Room_Brightness
+2022-10-07 11:36:19 : INFO : Func=InputClassifier : Log=Current brightness is 91.9182672017549 luma.
+2022-10-07 12:05:03 : INFO : Func=InputClassifier : Log=message: /start4
+2022-10-07 12:05:04 : ERROR : Func=InputClassifier : Log=Invalid Instruction
+NoneType: None
+2022-10-07 12:05:26 : INFO : Func=InputClassifier : Log=message: Get_Room_Brightness
+2022-10-07 12:05:26 : INFO : Func=InputClassifier : Log=Current brightness is 89.51618635185024 luma.
+2022-10-07 12:27:58 : INFO : Func=InputClassifier : Log=message: Set_Room_Light_Comfortable
+2022-10-07 12:27:58 : INFO : Func=ComfortAnalyserSolver : Log=Brightness: 92.54949249357051
+2022-10-07 12:27:58 : INFO : Func=ComfortAnalyserSolver : Log=Brightness is high.
+2022-10-07 12:27:59 : DEBUG : Func=ComfortAnalyserSolver : Log=Goal set in problem file.
+2022-10-07 12:27:59 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-10-07 12:27:59 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-10-07 12:27:59 : DEBUG : Func=ComfortAnalyserSolver : Log=Plan generated.
+2022-10-07 12:27:59 : DEBUG : Func=ComfortAnalyserSolver : Log=Performing action action_decrease_brightness
+2022-10-07 12:28:01 : DEBUG : Func=ComfortAnalyserSolver : Log=Lamp luminance set to -22.54949249357051
+2022-11-13 16:55:19 : INFO : Func=InputClassifier : Log=message: Hi
+2022-11-13 16:55:19 : ERROR : Func=InputClassifier : Log=Invalid Instruction
+NoneType: None
+2022-11-13 16:55:43 : INFO : Func=InputClassifier : Log=message: Set_Room_Light_Comfortable
+2022-11-13 16:55:43 : INFO : Func=ComfortAnalyserSolver : Log=Brightness: 93.09991849146748
+2022-11-13 16:55:43 : INFO : Func=ComfortAnalyserSolver : Log=Brightness is high.
+2022-11-13 16:55:43 : DEBUG : Func=ComfortAnalyserSolver : Log=Goal set in problem file.
+2022-11-13 16:55:43 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-11-13 16:55:44 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-11-13 16:55:44 : DEBUG : Func=ComfortAnalyserSolver : Log=Plan generated.
+2022-11-13 16:55:44 : DEBUG : Func=ComfortAnalyserSolver : Log=Performing action action_decrease_brightness
+2022-11-13 16:55:46 : DEBUG : Func=ComfortAnalyserSolver : Log=Lamp luminance set to -23.099918491467477
+2022-11-13 16:56:21 : INFO : Func=InputClassifier : Log=message: Set_Lamp_Luminance 20
+2022-11-13 16:56:21 : INFO : Func=InputClassifier : Log=Setting luminance to 20 luma.
+2022-11-13 16:56:23 : INFO : Func=InputClassifier : Log=Luminance set to 20 luma.
+2022-11-13 16:57:12 : INFO : Func=InputClassifier : Log=message: Set_Room_Light_Comfortable
+2022-11-13 16:57:12 : INFO : Func=ComfortAnalyserSolver : Log=Brightness: 90.62562464412056
+2022-11-13 16:57:12 : INFO : Func=ComfortAnalyserSolver : Log=Brightness is high.
+2022-11-13 16:57:12 : DEBUG : Func=ComfortAnalyserSolver : Log=Goal set in problem file.
+2022-11-13 16:57:12 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-11-13 16:57:13 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-11-13 16:57:13 : DEBUG : Func=ComfortAnalyserSolver : Log=Plan generated.
+2022-11-13 16:57:13 : DEBUG : Func=ComfortAnalyserSolver : Log=Performing action action_decrease_brightness
+2022-11-13 16:57:15 : DEBUG : Func=ComfortAnalyserSolver : Log=Lamp luminance set to -0.6256246441205633
+2022-11-13 16:57:55 : INFO : Func=InputClassifier : Log=message: Get_Room_Brightness
+2022-11-13 16:57:55 : INFO : Func=InputClassifier : Log=Current brightness is 90.15554524541854 luma.
+2022-11-13 16:58:14 : INFO : Func=InputClassifier : Log=message: Get_Room_Temperature
+2022-11-13 16:58:14 : INFO : Func=InputClassifier : Log=Current temperature is 24.82261484278706 degree celsius.
+2022-11-13 17:02:00 : INFO : Func=InputClassifier : Log=message: Get_Room_Brightness
+2022-11-13 17:02:00 : INFO : Func=InputClassifier : Log=Current brightness is 88.487605700417 luma.
+2022-11-13 17:02:26 : INFO : Func=InputClassifier : Log=message: Get_Lamp_Luminance
+2022-11-13 17:02:26 : ERROR : Func=InputClassifier : Log=Cannot read current lamp luminance
+NoneType: None
+2022-11-13 17:02:58 : INFO : Func=InputClassifier : Log=message: Set_Lamp_Luminance 5
+2022-11-13 17:02:58 : INFO : Func=InputClassifier : Log=Setting luminance to 5 luma.
+2022-11-13 17:03:00 : INFO : Func=InputClassifier : Log=Luminance set to 5 luma.
+2022-11-13 17:03:52 : INFO : Func=InputClassifier : Log=message: Set_Room_Light_Comfortable
+2022-11-13 17:03:52 : INFO : Func=ComfortAnalyserSolver : Log=Brightness: 90.64366193308973
+2022-11-13 17:03:52 : INFO : Func=ComfortAnalyserSolver : Log=Brightness is high.
+2022-11-13 17:03:52 : DEBUG : Func=ComfortAnalyserSolver : Log=Goal set in problem file.
+2022-11-13 17:03:52 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-11-13 17:03:53 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-11-13 17:03:53 : DEBUG : Func=ComfortAnalyserSolver : Log=Plan generated.
+2022-11-13 17:03:53 : DEBUG : Func=ComfortAnalyserSolver : Log=Performing action action_decrease_brightness
+2022-11-13 17:03:55 : DEBUG : Func=ComfortAnalyserSolver : Log=Lamp luminance set to 0
+2022-11-13 17:05:48 : INFO : Func=InputClassifier : Log=message: Set_Lamp_Luminance 30
+2022-11-13 17:05:48 : INFO : Func=InputClassifier : Log=Setting luminance to 30 luma.
+2022-11-13 17:05:50 : INFO : Func=InputClassifier : Log=Luminance set to 30 luma.
+2022-11-13 17:06:01 : INFO : Func=InputClassifier : Log=message: Set_Room_Light_Comfortable
+2022-11-13 17:06:01 : INFO : Func=ComfortAnalyserSolver : Log=Brightness: 30.990252564623926
+2022-11-13 17:06:01 : INFO : Func=ComfortAnalyserSolver : Log=Brightness is low.
+2022-11-13 17:06:01 : DEBUG : Func=ComfortAnalyserSolver : Log=Goal set in problem file.
+2022-11-13 17:06:01 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-11-13 17:06:01 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-11-13 17:06:01 : DEBUG : Func=ComfortAnalyserSolver : Log=Plan generated.
+2022-11-13 17:06:01 : DEBUG : Func=ComfortAnalyserSolver : Log=Performing action action_increase_brightness
+2022-11-13 17:06:03 : DEBUG : Func=ComfortAnalyserSolver : Log=Lamp luminance set to 0
+2022-11-13 17:06:52 : INFO : Func=InputClassifier : Log=message: Set_Room_Light_Comfortable
+2022-11-13 17:06:52 : INFO : Func=ComfortAnalyserSolver : Log=Brightness: 29.799124703654265
+2022-11-13 17:06:52 : INFO : Func=ComfortAnalyserSolver : Log=Brightness is low.
+2022-11-13 17:06:52 : DEBUG : Func=ComfortAnalyserSolver : Log=Goal set in problem file.
+2022-11-13 17:06:52 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-11-13 17:06:53 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-11-13 17:06:53 : DEBUG : Func=ComfortAnalyserSolver : Log=Plan generated.
+2022-11-13 17:06:53 : DEBUG : Func=ComfortAnalyserSolver : Log=Performing action action_increase_brightness
+2022-11-13 17:06:55 : DEBUG : Func=ComfortAnalyserSolver : Log=Lamp luminance set to 20.200875296345735
+2022-11-13 17:07:22 : INFO : Func=InputClassifier : Log=message: Set_Room_Temp_Comfortable
+2022-11-13 17:07:22 : INFO : Func=ComfortAnalyserSolver : Log=Season: Winter
+2022-11-13 17:07:22 : INFO : Func=ComfortAnalyserSolver : Log=Temperature: 25.4465206213969
+2022-11-13 17:07:22 : INFO : Func=ComfortAnalyserSolver : Log=Thermostat temperature: 25.4465206213969
+2022-11-13 17:07:22 : INFO : Func=ComfortAnalyserSolver : Log=Temperature is high.
+2022-11-13 17:07:22 : DEBUG : Func=ComfortAnalyserSolver : Log=Goal set in problem file.
+2022-11-13 17:07:22 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-11-13 17:07:23 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-11-13 17:07:23 : DEBUG : Func=ComfortAnalyserSolver : Log=Plan generated.
+2022-11-13 17:07:23 : DEBUG : Func=ComfortAnalyserSolver : Log=Performing action action_ac_off
+2022-11-13 17:07:25 : INFO : Func=ComfortAnalyserSolver : Log=AC is Off.
+2022-11-13 17:07:25 : DEBUG : Func=ComfortAnalyserSolver : Log=Performing action action_decreasetemperature_winter
+2022-11-13 17:07:27 : INFO : Func=ComfortAnalyserSolver : Log=Thermostat temperature set to 50.0 degree celsius.
+2022-11-13 20:48:00 : INFO : Func=InputClassifier : Log=message: Get_Room_Brightness
+2022-11-13 20:48:02 : ERROR : Func=readSensorValues : Log=HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B9C6224B50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1253, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1299, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1248, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1008, in _send_output
+    self.send(msg)
+  File "C:\Users\Celeste\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 948, in send
+    self.connect()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001B9C6224B50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B9C6224B50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\readSensorValues.py", line 13, in readBrightness
+    httpResponse = requests.post('http://192.168.0.102:5000/brightness?value')
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Study_Documents\Semester_4\Research_Project\Research_Project_Implementation\IoTLogiqConnectiv\venv\lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='192.168.0.102', port=5000): Max retries exceeded with url: /brightness?value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B9C6224B50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2022-11-13 20:48:02 : ERROR : Func=InputClassifier : Log=Cannot read current brightness
+NoneType: None
+2022-11-13 20:54:30 : INFO : Func=InputClassifier : Log=message: Get_Room_Brightness
+2022-11-13 20:54:31 : INFO : Func=InputClassifier : Log=Current brightness is 30.792941421180164 luma.
+2022-11-13 20:54:50 : INFO : Func=InputClassifier : Log=message: Optimise_Room
+2022-11-13 20:55:00 : INFO : Func=InputClassifier : Log=message: Get_Room_Brightness
+2022-11-13 20:55:00 : INFO : Func=InputClassifier : Log=Current brightness is 30.426670803019277 luma.
+2022-11-13 20:56:18 : INFO : Func=InputClassifier : Log=message: Optimise_Room
+2022-11-13 20:56:26 : INFO : Func=InputClassifier : Log=message: Get_Room_Brightness
+2022-11-13 20:56:26 : INFO : Func=InputClassifier : Log=Current brightness is 30.496152792003496 luma.
+2022-11-13 21:43:00 : INFO : Func=InputClassifier : Log=message: Optimise_Room
+2022-11-13 21:43:00 : INFO : Func=EnergyOptimiserSolver : Log=Season: Winter
+2022-11-13 21:43:00 : INFO : Func=EnergyOptimiserSolver : Log=Season is winter and motion is not detected in the room
+2022-11-13 21:43:00 : DEBUG : Func=EnergyOptimiserSolver : Log=Goal set in problem file.
+2022-11-13 21:43:00 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-11-13 21:43:01 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-11-13 21:43:01 : ERROR : Func=AI_Planner.pddl : Log=AI Planner Compilation Error!
+NoneType: None
+2022-11-13 21:43:01 : DEBUG : Func=EnergyOptimiserSolver : Log=Plan generated.
+2022-11-13 21:43:01 : DEBUG : Func=EnergyOptimiserSolver : Log=Performing action action_ac_off
+2022-11-13 21:43:03 : INFO : Func=EnergyOptimiserSolver : Log=AC is Off.
+2022-11-13 21:45:25 : INFO : Func=InputClassifier : Log=message: Optimise_Room
+2022-11-13 21:45:25 : INFO : Func=EnergyOptimiserSolver : Log=Season: Winter
+2022-11-13 21:45:25 : INFO : Func=EnergyOptimiserSolver : Log=Season is winter and motion is not detected in the room
+2022-11-13 21:45:25 : DEBUG : Func=EnergyOptimiserSolver : Log=Goal set in problem file.
+2022-11-13 21:45:25 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-11-13 21:45:25 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-11-13 21:45:25 : DEBUG : Func=EnergyOptimiserSolver : Log=Plan generated.
+2022-11-13 21:45:25 : DEBUG : Func=EnergyOptimiserSolver : Log=Performing action action_ac_off
+2022-11-13 21:45:27 : INFO : Func=EnergyOptimiserSolver : Log=AC is Off.
+2022-11-13 21:45:27 : DEBUG : Func=EnergyOptimiserSolver : Log=Performing action action_lights_off
+2022-11-13 21:45:29 : INFO : Func=EnergyOptimiserSolver : Log=Lights have been turned off
+2022-11-13 21:46:06 : INFO : Func=InputClassifier : Log=message: Get_AC_Status
+2022-11-13 21:46:06 : INFO : Func=InputClassifier : Log=AC status is Off
+2022-11-13 21:46:24 : INFO : Func=InputClassifier : Log=message: Get_Lamp_Luminance
+2022-11-13 21:46:24 : ERROR : Func=InputClassifier : Log=Cannot read current lamp luminance
+NoneType: None
+2022-11-13 21:47:01 : INFO : Func=InputClassifier : Log=message: Set_Lamp_Luminance 6
+2022-11-13 21:47:01 : INFO : Func=InputClassifier : Log=Setting luminance to 6 luma.
+2022-11-13 21:47:03 : INFO : Func=InputClassifier : Log=Luminance set to 6 luma.
+2022-11-13 21:47:11 : INFO : Func=InputClassifier : Log=message: Get_Lamp_Luminance
+2022-11-13 21:47:11 : INFO : Func=InputClassifier : Log=Current lamp luminance is 6 luma.
+2022-11-13 21:47:57 : INFO : Func=InputClassifier : Log=message: Set_Room_Light_Comfortable
+2022-11-13 21:47:57 : INFO : Func=ComfortAnalyserSolver : Log=Brightness: 30.79797990913123
+2022-11-13 21:47:57 : INFO : Func=ComfortAnalyserSolver : Log=Brightness is low.
+2022-11-13 21:47:57 : DEBUG : Func=ComfortAnalyserSolver : Log=Goal set in problem file.
+2022-11-13 21:47:57 : INFO : Func=AI_Planner.pddl : Log=Sending the request to: http://solver.planning.domains/solve
+2022-11-13 21:47:57 : INFO : Func=AI_Planner.pddl : Log=Received response from: http://solver.planning.domains/solve
+2022-11-13 21:47:57 : DEBUG : Func=ComfortAnalyserSolver : Log=Plan generated.
+2022-11-13 21:47:58 : DEBUG : Func=ComfortAnalyserSolver : Log=Performing action action_increase_brightness
+2022-11-13 21:48:00 : DEBUG : Func=ComfortAnalyserSolver : Log=Lamp luminance set to 13.202020090868771
